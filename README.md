@@ -8,5 +8,7 @@ It shows how to make a program that simplifies the process of creating new email
   <li>Give you special controls to set Mailbox Capacity, Set alternate Email and Change Password.</li>
  </ul>
  
- ###Screenshot for reference:-
+ ### Screenshot for reference:-
 <img src="https://github.com/Sumit-Budhiraja/Email-Administration-Application-CommandLine/blob/main/Screenshot%20(645).png"></img>
+
+### Give a star if you like it.😉
